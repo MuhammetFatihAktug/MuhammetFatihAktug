@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning Flutter
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/muhammetfatihaktug)&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/muhammetfatihaktug/)&nbsp;
