@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python for machine learning  
   
 
-- ❓ Ask me about anything related to Flutter and related technologies  
+- ❓Ask me about anything related to any technologies   
   
 
 - ⚡ I walking around and sports everyday, after coding  
