@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: %" />
-</div>  
-  
 
 ### <div align="center">I'm Muhammet Fatih Aktug, Computer Engineering students at Dumlupınar Univerisity. 🚀</div>  
   
