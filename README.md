@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Python, Java and other technologies  
   
 
-- 🌱 I’m currently learning Python for machine learning  
+- 🌱 I’m currently learning Spring Boot for Backend  
   
 
 - ❓Ask me about anything related to any technologies   
@@ -18,10 +18,7 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/MuhammetFatihAktug" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="width :20%;margin-bottom: 5px;" />
-</a>
+
   
  
 <a href="https://www.linkedin.com/in/muhammetfatihaktug/" target="_blank">
@@ -77,11 +74,11 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammetFatihAktug&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />  
+## RoadMap
 
+ 
+<div align="center">
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64b3fb0a9a1017508d22b731?variant=dark" alt="roadmap.sh" width="75%" /></a></div>  
 <br/>  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetFatihAktug&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-
-<br/>  
