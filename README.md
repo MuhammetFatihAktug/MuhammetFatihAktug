@@ -2,16 +2,13 @@
 ### <div align="center">I'm Muhammet Fatih Aktug, Computer Engineering students at Dumlupınar Univerisity. 🚀</div>  
   
 
-- 🔭 I’m currently working on Python, Java and other technologies  
+- 🔭 I’m currently working on Java-Srpring, AI with Python
   
 
 - 🌱 I’m currently learning Spring Boot for Backend  
   
 
-- ❓Ask me about anything related to any technologies   
-  
-
-- ⚡ I walking around and sports everyday, after coding  
+- ⚡ I am playing piano every resting time, also i like running 5k-10k marathon
   
 
 <br/>  
