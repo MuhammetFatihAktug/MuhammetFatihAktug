@@ -65,17 +65,15 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/MuhammetFatihAktug" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="width: 100px; height: 30px; margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/muhammetfatihaktug" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="width: 100px; height: 30px; margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/m_fatih_aktug" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 <a href="https://www.hackerrank.com/profile/m_fatih_aktug" target="_blank">
-  <img src="https://camo.githubusercontent.com/baa951c98b06415a5e4d7752301995bd016c94cbdd5df30590925ee824a5c438/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b657252616e6b2d2532333245433836362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465" alt="HackerRank" data-canonical-src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" style=" height: 30px; margin-bottom: 5px;" />
 </a>
+
   
 </div>  
   
