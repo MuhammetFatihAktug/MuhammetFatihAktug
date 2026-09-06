@@ -1,79 +1,67 @@
-<h2 align="center">Muhammet Fatih Aktuğ</h2>
+<h1 align="center">Muhammet Fatih Aktuğ</h1>
 
-###
+<p align="center">
+  <b>AI / Backend Engineer</b> · Creative Solutions · İstanbul
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammetFatihAktug&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammetFatihAktug&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammetfatihaktug/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/m_fatih_aktug"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+</p>
 
-###
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-</div>
+I build backend systems and the AI layer on top of them: LLM inference and serving, fine-tuning, and document-understanding pipelines that turn PDFs and forms into structured data. I care about systems that stay readable and keep working after they ship.
 
-###
+<br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/muhammetfatihaktug/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/m_fatih_aktug" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+## What I work on
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MuhammetFatihAktug/count.svg?"  />
-</div>
+- **LLM serving & inference** — gateways in front of self-hosted models, throughput/memory trade-offs, vLLM-based deployments
+- **Fine-tuning & evaluation** — adapting open-weight models to domain tasks and measuring whether it actually helped
+- **Document intelligence** — schema-driven extraction from PDFs and HTML forms; table parsing that survives messy real-world inputs
+- **Backend engineering** — Python (FastAPI) and Java (Spring) services, real-time features over WebSockets, the plumbing that makes the above usable
 
-###
+<br>
+
+## Featured
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MuhammetFatihAktug/LLMs-from-scratch-tr">📘 LLMs-from-scratch-tr</a></h3>
+      Full Turkish translation of Sebastian Raschka's <i>Build a Large Language Model (From Scratch)</i> and its sequel on reasoning models — 86 notebooks, 240+ source files, plus Turkish sample datasets so the same experiments can be run on an agglutinative language. Built to make the material accessible to Turkish-speaking learners.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MuhammetFatihAktug/university-automation-systems-backend">🎓 University Automation System</a></h3>
+      Spring Boot backend + <a href="https://github.com/MuhammetFatihAktug/university-automation-systems-frontend">Angular frontend</a> for course, student and staff management. An earlier full-stack project that shaped how I structure services today.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MuhammetFatihAktug/multi-chat-app">💬 Multi-user Chat</a></h3>
+      Real-time multi-room chat over Spring WebSockets.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MuhammetFatihAktug/SearchAppBarTool">📦 Flutter packages</a></h3>
+      <a href="https://github.com/MuhammetFatihAktug/SearchAppBarTool">SearchAppBarTool</a> and <a href="https://github.com/MuhammetFatihAktug/DioMini">DioMini</a> — small, focused UI and HTTP utilities for Flutter.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,rust,java,spring,ts,angular,flutter,dart&perline=10" alt="languages and frameworks">
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,docker,nginx,linux,git,grafana,prometheus&perline=10" alt="infrastructure and tooling">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammetFatihAktug/MuhammetFatihAktug/output/snake.svg" alt="contribution graph" width="100%">
+</p>
