@@ -1,7 +1,7 @@
 <h1 align="center">Muhammet Fatih Aktuğ</h1>
 
 <p align="center">
-  <b>AI / Backend Engineer</b> · Creative Solutions · İstanbul
+  <b>AI Engineer</b> · Creative Solutions · İstanbul
 </p>
 
 <p align="center">
@@ -12,52 +12,29 @@
 
 <br>
 
-I build backend systems and the AI layer on top of them: LLM inference and serving, fine-tuning, and document-understanding pipelines that turn PDFs and forms into structured data. I care about systems that stay readable and keep working after they ship.
+I work across the whole lifecycle of applied AI systems — from collecting and preparing data, through training and fine-tuning, to optimizing and serving models in production. Most of my work is turning an idea into a working proof of concept quickly, then hardening the ones that earn it.
 
 <br>
 
-## What I work on
+## What I do
 
-- **LLM serving & inference** — gateways in front of self-hosted models, throughput/memory trade-offs, vLLM-based deployments
-- **Fine-tuning & evaluation** — adapting open-weight models to domain tasks and measuring whether it actually helped
-- **Document intelligence** — schema-driven extraction from PDFs and HTML forms; table parsing that survives messy real-world inputs
-- **Backend engineering** — Python (FastAPI) and Java (Spring) services, real-time features over WebSockets, the plumbing that makes the above usable
-
-<br>
-
-## Featured
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MuhammetFatihAktug/LLMs-from-scratch-tr">📘 LLMs-from-scratch-tr</a></h3>
-      Full Turkish translation of Sebastian Raschka's <i>Build a Large Language Model (From Scratch)</i> and its sequel on reasoning models — 86 notebooks, 240+ source files, plus Turkish sample datasets so the same experiments can be run on an agglutinative language. Built to make the material accessible to Turkish-speaking learners.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MuhammetFatihAktug/university-automation-systems-backend">🎓 University Automation System</a></h3>
-      Spring Boot backend + <a href="https://github.com/MuhammetFatihAktug/university-automation-systems-frontend">Angular frontend</a> for course, student and staff management. An earlier full-stack project that shaped how I structure services today.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MuhammetFatihAktug/multi-chat-app">💬 Multi-user Chat</a></h3>
-      Real-time multi-room chat over Spring WebSockets.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MuhammetFatihAktug/SearchAppBarTool">📦 Flutter packages</a></h3>
-      <a href="https://github.com/MuhammetFatihAktug/SearchAppBarTool">SearchAppBarTool</a> and <a href="https://github.com/MuhammetFatihAktug/DioMini">DioMini</a> — small, focused UI and HTTP utilities for Flutter.
-    </td>
-  </tr>
-</table>
+- **Fine-tuning open-weight models** for domain tasks, and building custom models when an off-the-shelf one isn't the right fit
+- **Training at scale** — multi-GPU and cloud training runs, with the optimization work needed to keep them fast and affordable
+- **Serving & inference** — vLLM / SGLang deployments and an LLM gateway that sits in front of self-hosted models
+- **Document understanding** — PDF reading and structured extraction with custom models; detection models for visual inputs
+- **Product surfaces** — the web apps, APIs and demos that make a model usable, and deploying them end to end
+- **PoCs & demos** — fast, concrete prototypes that show whether an approach works before committing to it
 
 <br>
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,rust,java,spring,ts,angular,flutter,dart&perline=10" alt="languages and frameworks">
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,docker,nginx,linux,git,grafana,prometheus&perline=10" alt="infrastructure and tooling">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,rust,fastapi,react,vite,docker,linux,git&perline=9" alt="stack">
+</p>
+
+<p align="center">
+  <sub>vLLM · SGLang · multi-GPU & cloud training · fine-tuning · LLM gateways · detection & document models</sub>
 </p>
 
 <br>
